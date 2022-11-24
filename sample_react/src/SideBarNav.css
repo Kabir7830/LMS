@@ -1,0 +1,12 @@
+.navDiv{
+    width:20%;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: rgb(5 40 60 / 88%);
+    color:white;
+    font-weight: bold;
+    float: left;
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+}
+.navDiv::-webkit-scrollbar { width: 0 !important }

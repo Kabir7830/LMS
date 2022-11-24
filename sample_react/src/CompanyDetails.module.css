@@ -1,0 +1,14 @@
+.tableHead {
+    font-size: 30px;
+    color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.tableData {
+    font-size: 24px;
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
