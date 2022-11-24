@@ -1,0 +1,58 @@
+.centerAlign{
+    text-align: center;
+}
+.links{
+    padding-left: 30px;
+}
+.links:hover {
+    cursor: pointer;
+    color:white;
+    background: rgba(0, 0, 0, 0.493);
+    
+    
+}
+.links:focus{
+    color:skyblue;
+}
+
+.midAlign{
+    margin-top: 35vh;
+}
+
+.bottomAlign{
+    position:absolute;
+    
+    bottom: 0px;
+}
+.rightAlign{
+    position:absolute;
+    right:0px;
+    top:10px
+}
+
+.loose-spaced{
+    word-spacing: 20px;
+}
+
+.same-line{
+    display: inline;
+}
+.dispFlex{
+    display: flex;
+}
+
+.horizontal-overflow{
+    overflow-x: auto;
+}
+.vertical-overflow{
+    overflow-y: auto;
+}
+
+.right-align{
+    text-align: right;
+}
+
+.ml-auto{
+    margin:auto;
+    display: flex;
+}
